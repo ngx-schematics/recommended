@@ -1,0 +1,17 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "recommended": {
+      "description": "The recommended Angular project settings.",
+      "factory": "./recommended/index#recommended"
+    },
+    "add": {
+      "description": "The recommended Angular project settings.",
+      "factory": "./recommended/index#recommended"
+    },
+    "ng-add": {
+      "description": "The recommended Angular project settings.",
+      "factory": "./recommended/index#recommended"
+    }
+  }
+}
